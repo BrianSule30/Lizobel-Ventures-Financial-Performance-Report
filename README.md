@@ -17,5 +17,6 @@ Data Source: Kaggle
 (I will name this project company LIZOBEL VENTURES for lack of company name)
 
 Visuals: 
-Donut chart showing revenue contribution across Products, ASP trend lines, and monthly volume charts that reveal the rhythm of growth.
+Donut chart showing revenue contribution across Products, ASP trend lines, and monthly volume charts that reveal the rhythm of growth and slicers for specific insights across product,coutry,segments,discounts and months for time series analysis.
+
 Turning financial data into strategic clarity. Let’s connect around pricing intelligence, growth strategy, and performance analytics.
