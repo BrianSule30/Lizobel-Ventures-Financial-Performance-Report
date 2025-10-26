@@ -1,5 +1,5 @@
 At Lizobel Ventures, we’ve been laser focused on optimizing our production to shelf pipeline and the results speak volumes:
-
+## View DashBoard Here: https://www.linkedin.com/posts/brian-sule-109293197_zoomcharts-zoomcharts-powerbi-activity-7387568101766270976---6Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC4jNdkBNHNPzbKBCN2ttLZYECJFt028l8k
 Tool Used: Power BI 
 
 Focus Areas: 
